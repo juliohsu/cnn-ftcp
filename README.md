@@ -6,4 +6,5 @@ LINK REQUISICOES: https://github.com/ccufcg/rc2024.2?tab=readme-ov-file
 
 INTEGRANTE:
 - JULIO HSU - 120110370
+- GUILHERME DANTAS BOIA DE ALBUQUERQUE - 122110002
 - 

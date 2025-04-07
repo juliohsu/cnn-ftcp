@@ -1,1 +1,3 @@
-FILE "A"
+Teste de Transmissão do arquivo "a.txt" do projeto de redes.
+
+Bem-vindo ao protocolo FTCP! Esta é uma mensagem de teste.
