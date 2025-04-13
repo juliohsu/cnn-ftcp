@@ -43,5 +43,5 @@ Consulte os seguintes arquivos neste repositório para obter detalhes completos 
     ```
 3.  **Executar o Cliente (em outro terminal):**
     ```bash
-    python cliente_ftcp.py a.txt
+    python cliente_ftcp.py
     ```
